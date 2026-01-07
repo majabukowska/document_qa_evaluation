@@ -40,4 +40,8 @@ The project currently implements the document ingestion stage of a RAG-style pip
   - source document
   - split type (paragraph / word split)
 
-The ingestion pipeline outputs clean, structured text chunks ready for embedding and retrieval.
+**4. Embedding-based retrieval**
+- Compute vector embeddings for document chunks
+- Similarity search for relevant context given a user question
+- Retrieval scoring and ranking
+
