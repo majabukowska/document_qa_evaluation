@@ -6,3 +6,4 @@ beautifulsoup4
 pdfplumber
 python-docx
 sentence-transformers
+openai

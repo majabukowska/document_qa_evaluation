@@ -1,0 +1,14 @@
+[
+  {
+    "query": "What is PyTorch?",
+    "expected_source": ["IBM PyTorch"]
+  },
+  {
+    "query": "What types of neural networks does PyTorch support?",
+    "expected_source": ["IBM PyTorch"]
+  },
+  {
+    "query": "Jaką monarchią jest starożytny Egipt?",
+    "expected_source": ["Starożytny Egipt"]
+  }
+]
